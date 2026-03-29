@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Shivansh Tewari
-* **Roll Number:** 24BAI10112
+* **Name:** Aditya Atul Saraf
+* **Roll Number:** 24BCE10155
 
 ---
 
